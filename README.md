@@ -1,6 +1,6 @@
 # 👚 Fashion Hub - Sistema de Análise de Dados
 
-Projeto final da UFCD 10811 - Projeto de análise de dados para uma loja de moda.
+Projeto final da UFCD 10811 - Projeto de análise de dados para uma loja de moda no decorrer da formação de Data Analyst do CESAE Digital.
 
 ## 📋 Descrição
 
@@ -43,7 +43,7 @@ Sistema completo de análise de dados com interface Streamlit e gestão de base 
 - Previsão de receita futura (3 meses)
 - Clustering de produtos
 
-### 5. **Limpeza de Dados (UFCD 10808)**
+### 5. **Limpeza de Dados**
 - Tratamento de dados em falta
 - Validação de email, telefone
 - Formatação de datas
@@ -138,12 +138,6 @@ Verifique o ficheiro `utilizadores.csv` para as credenciais de login.
 - **MySQL Connector** - BD relacional
 - **BeauPy** - Menus interativos
 
-## ⚠️ Notas de Segurança
-
-- **Nunca fazer commit de credentials!** O `.gitignore` já exclui `projetofinal.py`
-- Use variáveis de ambiente para passwords em produção
-- Implemente validação adicional de inputs em produção
-
 ## 📝 Logs
 
 Todas as atividades são registadas em `logs.txt`:
@@ -151,19 +145,6 @@ Todas as atividades são registadas em `logs.txt`:
 - Operações na BD (inserção, edição, remoção)
 - Erros de validação
 
-## 🎓 Projeto Académico
-
-UFCD 10811 - Projeto de análise de dados
-Centro de Ensino: CESAE
-
-## 📄 Licença
-
-[Escolha a sua licença]
-
-## ✉️ Contacto
-
-[Seu contacto/email]
-
 ---
 
-**Última atualização:** 2026-06-19
+**Última atualização:** 2025-07-31
