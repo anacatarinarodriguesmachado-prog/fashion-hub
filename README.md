@@ -118,7 +118,7 @@ limpar_tratar_dados()
 inserir_dados_bd(clientes, fornecedores, produtos, vendas)
 ```
 
-## � Ficheiros locais ocultados
+## Ficheiros locais ocultados
 
 Alguns ficheiros locais com configurações e credenciais não são enviados para o GitHub. Isto garante que a password do MySQL e outras informações sensíveis não fiquem públicas.
 
@@ -127,7 +127,7 @@ Alguns ficheiros locais com configurações e credenciais não são enviados par
 
 Estes ficheiros estão listados em `.gitignore`, por isso o repositório só mantém o código aberto e seguro.
 
-## �👥 Utilizadores Padrão
+## 👥 Utilizadores Padrão
 
 Verifique o ficheiro `utilizadores.csv` para as credenciais de login.
 
