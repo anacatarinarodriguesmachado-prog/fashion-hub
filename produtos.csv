@@ -1,0 +1,40 @@
+﻿nome,preco,stock,fornecedor_id
+"Camisa Branca,""25,90"",100,1"
+Calca Jeans Slim,49.9,80,2
+"Tenis Casual,""89,90"",50,3"
+Blazer Feminino,,35,4
+"Casaco Moletom,""59,90"",-5,5
+Saia Midi,44.90,,6
+Vestido Longo,""""69,90"""",50,7"
+Camisa Basica,19.90,120,8
+Meias Algodao,9,200,9
+Casaco de Lã,129.90,1,10
+Sapatilhas,59.90,5,3
+Jaqueta Sport,79,30,12
+Calca Largas,39.9a,70,11
+Bermuda Praia,29.90,-10,6
+Chapeu Verão,,15,14
+Luvas Inverno,24,vinte,4
+Camisa Polo,35.00,90,6
+"Calças de Treino,""42,30"",80,5"
+T-shirt Estampada,19,100,8
+Saia Curta,39,45,7
+Chapeu de Sol,22.90,25,9
+Sapatos Sociais,99.90,40,12
+Casaco Impermeavel,120.00,15,12
+Cinto de Couro,15.00,50,10
+Bolsa Feminina,65.00,30,4
+Vestido Casual,70,40,8
+Mochila Escolar,49,60,12
+Relógio Desportivo,89,10,2
+Boné Ajustável,19.90,70,5
+Calças Cargo,45.5,25,6
+Saia Longa,38,15,7
+Blusa casual,55,,3
+Tênis de Corrida,129.99,20,8
+Camisa,15,100,1
+Jaqueta de Couro,150.00,5,12
+Chapéu Fedora,30,10,10
+Meias desportivas,8,150,9
+Calças Jeans,60,40,2
+Bolsa Carteira,55.50,35,4
