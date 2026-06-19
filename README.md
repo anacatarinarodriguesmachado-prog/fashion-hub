@@ -72,10 +72,6 @@ pip install -r requirements.txt
 mysql -u root -p < loja1.sql
 ```
 
-4. Configure as credenciais:
-- Edite `projetofinal.py` e `projeto.py`
-- Altere `user='root'` e `password='catarina'` conforme necessário
-
 ## 🚀 Uso
 
 ### Executar o Menu Principal
