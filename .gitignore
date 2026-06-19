@@ -28,6 +28,7 @@ Thumbs.db
 .env
 *.sql
 projetofinal.py  # Comentar se quiser versionar (contém credentials)
+projeto.py      # Contém credenciais MySQL locais
 
 # Temporary files
 *.tmp
